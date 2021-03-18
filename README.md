@@ -8,6 +8,11 @@
 
 _Computer Science & Engineering Junior_ at <b>College of Engineering and Technology</b> (Location: Bhubaneswar, Odisha, India) I'm a <b> Web Developer</b>  🤓 | <b>Machine Learning Enthusiast</b> 👨🏻‍💻 | <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 |. Looking forward to utilize my skills in this competetive world. 🧑🏻
 
+<p align="center">
+  <img src="https://github.com/Debashish-hub/Debashish-hub/blob/main/logos/ezgif.com-gif-maker%20(2).gif" alt="animated" />
+</p>
+
+
 <!-- - 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan) -->
 <!-- - 🚩 [Website](avinashkranjan.github.io) -->
 - 🔭 I’m currently Computer Science Undergraduate 💻
@@ -20,12 +25,13 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 - 🎆 I'm Open for New Opportunities.
 
 
-<a href="https://github.com/debashish-hub">
+
+<p href="https://github.com/debashish-hub " align='center'>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-hub&show_icons=true&theme=radical&line_height=27" alt="Debashish's's github stats"/>
-</a>
-<a href="https://github.com/debashish-hub">
+</p>
+<p href="https://github.com/debashish-hub" align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-hub&theme=radical&hide_langs_below=1" />
-</a>
+</p>
 
 
 
