@@ -27,7 +27,9 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-hub&theme=radical&hide_langs_below=1" />
 </a>
 
-![Face-Recognition](https://github.com/Debashish-hub/Rotten-Scripts/blob/master/Python/Face-Recognition/ezgif.com-gif-maker.gif)
+<p align="center">
+  <img src="https://github.com/Debashish-hub/Rotten-Scripts/blob/master/Python/Face-Recognition/ezgif.com-gif-maker.gif" alt="animated" />
+</p>
 
 <p align="center"> 
    Visitor Count
