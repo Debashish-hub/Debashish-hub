@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/debashish10_/"><img src="https://github.com/Debashish-hub/Debashish-hub/blob/main/logos/instagram.png" width="40" /></a>
 
 
-_Computer Science & Engineering Junior_ at <b>College of Engineering and Technology</b> (Location: Bhubaneswar, Odisha, India) I'm a <b> Web Developer</b>  🤓 | <b>Machine Learning Enthusiast</b> 👨🏻‍💻 | <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 |. Looking forward to utilize my skills in this competetive world. 🧑🏻
+_Computer Science & Engineering Junior_ at <b>College of Engineering and Technology</b> (Location: Bhubaneswar, Odisha, India) I'm a <b> Web Developer</b>  🤓 | <b>Machine Learning Enthusiast</b> 👨🏻‍💻 | <b>C++ || Python</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 |. Looking forward to utilize my skills in this competetive world. 🧑🏻
 
 <p align="center">
   <img src="https://github.com/Debashish-hub/Debashish-hub/blob/main/logos/ezgif.com-gif-maker%20(2).gif" alt="animated" />
