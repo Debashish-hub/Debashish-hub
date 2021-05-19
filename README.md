@@ -28,9 +28,9 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 <p href="https://github.com/debashish-hub " align='center'>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-hub&show_icons=true&theme=radical&line_height=27" alt="Debashish's's github stats"/>
 </p>
-<p href="https://github.com/debashish-hub" align='center'>
+<!-- <p href="https://github.com/debashish-hub" align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-hub&theme=radical&hide_langs_below=1" />
-</p>
+</p> -->
 
 
 
