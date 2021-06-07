@@ -20,7 +20,7 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Competetive Coding 
 - 📫 You can reach at: debashish1900@gmail.com 
-- 😄 Pronouns: D
+- 😄 Call me Deba
 - ⚡ Fun fact: Music inspires me to code 🧑
 - 🎆 I'm Open for New Opportunities.
 
@@ -39,7 +39,8 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 <p align="center"> 
    Visitor Count
  <br/>
-  <img src="https://profile-counter.glitch.me/debashish-hub/count.svg" />
+  <img src="https://profile-counter.glitch.me/debashish-hub/count.svg" /><br/>
+  Show some ❤️ by starring some of the repositories!
+
 </p>
 
-### Show some ❤️ by starring some of the repositories!
