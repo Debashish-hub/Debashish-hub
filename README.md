@@ -4,7 +4,7 @@
 <a href="https://github.com/debashish-hub"><img src="https://github.com/Debashish-hub/Debashish-hub/blob/main/logos/github-logo.png" width="40" /></a>
 <a href="https://twitter.com/imdebashish_10"><img src="https://github.com/Debashish-hub/Debashish-hub/blob/main/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/debashish10_/"><img src="https://github.com/Debashish-hub/Debashish-hub/blob/main/logos/instagram.png" width="40" /></a>
-<a href="https://debashish-10.medium.com/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" width="40" /></a>
+<a href="https://d-buugger.blogspot.com/"><img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" width="40" /></a>
 
 
 _Computer Science & Engineering Junior_ at <b>College of Engineering and Technology</b> (Location: Bhubaneswar, Odisha, India) I'm a <b> Web Developer</b>  🤓 | <b>Machine Learning Enthusiast</b> 👨🏻‍💻 | <b>C++ || Python</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 |. Looking forward to utilize my skills in this competetive world. 🧑🏻
