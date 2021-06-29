@@ -23,7 +23,7 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 - 😄 Call me Deba
 - ⚡ Fun fact: Music inspires me to code 🧑
 - 🎆 I'm Open for New Opportunities.
-- 🔗 https://linktr.ee/DebashishKumarSahoo
+- 🔗 <a href='https://linktr.ee/DebashishKumarSahoo'>Let's connect</a>
 
 
 
