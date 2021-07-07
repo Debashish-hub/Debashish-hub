@@ -15,14 +15,14 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 
 
 - 🚩 [Website](https://debashish-hub.github.io/DebashishKumarSahoo/)
-- 🔭 I’m currently Computer Science Undergraduate 💻
-- 🌱 I’m currently learning Full Stack Development , Machine Learning
+- 🔭 I’m currently persuing Computer Science Undergraduate 💻
+<!-- - 🌱 I’m currently learning Full Stack Development , Machine Learning
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Competetive Coding 
 - 📫 You can reach at: debashish1900@gmail.com 
 - 😄 Call me Deba
 - ⚡ Fun fact: Music inspires me to code 🧑
-- 🎆 I'm Open for New Opportunities.
+- 🎆 I'm Open for New Opportunities. -->
 - 🔗 <a href='https://linktr.ee/DebashishKumarSahoo'>Let's connect</a>
 
 
