@@ -14,7 +14,7 @@ _Computer Science & Engineering Junior_ at <b>College of Engineering and Technol
 </p>
 
 
-- 🚩 [Website](https://debashish-hub.github.io/DebashishKumarSahoo/)
+- 🚩 [Website](https://gettoknowdebashish.netlify.app/)
 - 🔭 I’m currently persuing Computer Science & Engineering  💻
 - 🌱 I’m currently learning Full Stack Development , Machine Learning
 - 👯 I’m looking to collaborate on any cool Project
