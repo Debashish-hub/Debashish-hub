@@ -16,34 +16,34 @@ I would love to connect with you, so do not hesitate to connect with me on below
 
 <p align="center">
   <b>  <a href="https://gettoknowdebashish.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a></b>
   <a href="https://d-buugger.blogspot.com/">
-    <img src="https://img.shields.io/badge/-Blogger-orange?style=flat-square&logo=Blogger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
   <a href="https://twitter.com/imdebashish_10">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/debashish-kumar-sahoo-784948193/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/debashish10/">
-    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
     <a href="https://www.hackerrank.com/debashish_sahoo">
-    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/debashish_10">
-    <img src="https://img.shields.io/badge/-Codechef-yellow?style=flat-square&logo=Codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codechef-yellow?style=for-the-badge&logo=Codechef&logoColor=white"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/debashish10/profile">
-    <img src="https://img.shields.io/badge/-Geeksforgeeks-darkgreen?style=flat-square&logo=Geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Geeksforgeeks-darkgreen?style=for-the-badge&logo=Geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://www.quora.com/profile/Debashish-Sahoo-25">
-    <img src="https://img.shields.io/badge/-Quora-darkred?style=flat-square&logo=Quora&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/debashish10_/">
-    <img src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 <br/>
