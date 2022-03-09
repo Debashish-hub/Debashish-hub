@@ -33,7 +33,7 @@ I would love to connect with you, so do not hesitate to connect with me on below
     <a href="https://www.hackerrank.com/debashish_sahoo">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/debashish_10">
+  <a href="https://www.codechef.com/users/debashish_01">
     <img src="https://img.shields.io/badge/-Codechef-yellow?style=for-the-badge&logo=Codechef&logoColor=white"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/debashish10/profile">
