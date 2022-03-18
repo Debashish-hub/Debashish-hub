@@ -1,7 +1,7 @@
 ### Hi there!  I'm [Debashish!](https://github.com/Debashish-hub) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 
-<p align="center"><a href="https://gettoknowdebashish.netlify.app/">
+<p align="center"><a href="https://www.debashishsahoo.tech/">
     <img src="images/5.gif" />
 </a></p>
 
