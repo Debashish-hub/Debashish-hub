@@ -15,12 +15,12 @@ I would love to connect with you, so do not hesitate to connect with me on below
 <br/>
 
 <p align="center">
-  <b>  <a href="https://gettoknowdebashish.netlify.app/">
+  <b>  <a href="https://www.debashishsahoo.tech/">
     <img src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a></b>
-  <a href="https://d-buugger.blogspot.com/">
+<!--   <a href="https://d-buugger.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/imdebashish_10">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
